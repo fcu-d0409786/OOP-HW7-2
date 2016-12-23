@@ -1,5 +1,4 @@
-package aaa;
-
+package aaa;  //將pokemon.type 分出來
 public class Main {
 
 	public static void main(String[] args) {
